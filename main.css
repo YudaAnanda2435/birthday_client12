@@ -290,7 +290,7 @@ body {
 
   .six img {
     height: 380px;
-    max-width: 100%;
+    max-width: 400px;
   }
 
   .four .text-box {
@@ -354,5 +354,12 @@ body {
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
+  }
+}
+
+@media (max-width: 400px){
+    .six img {
+    height: 240px;
+    max-width: 325px;
   }
 }
