@@ -340,7 +340,7 @@ body {
   }
 
   .wish-hbd {
-    font-size: 1.1em;
+    font-size: 1.4em;
   }
 
   .wish h5 {
@@ -359,7 +359,7 @@ body {
 
 @media (max-width: 400px){
    .six img {
-    height: 270;
+    height: 270px;
     max-width: 100%;
   }
   .six{
