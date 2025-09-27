@@ -290,7 +290,7 @@ body {
 
   .six img {
     height: 380px;
-    max-width: 400px;
+    max-width: 100%;
   }
 
   .four .text-box {
@@ -358,6 +358,10 @@ body {
 }
 
 @media (max-width: 400px){
+   .six img {
+    height: auto;
+    max-width: 100%;
+  }
   .six{
     padding-inline: 12px;
   }
