@@ -359,10 +359,10 @@ body {
 
 @media (max-width: 400px){
    .six img {
-    height: auto;
+    height: 270;
     max-width: 100%;
   }
   .six{
-    padding-inline: 12px;
+    padding-inline: 12px !important;
   }
 }
